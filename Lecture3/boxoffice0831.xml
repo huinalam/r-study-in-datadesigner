@@ -1,0 +1,56 @@
+<boxOfficeResult>
+	<boxofficeType>일별 박스오피스</boxofficeType>
+	<showRange>20150831~20150831</showRange>
+	<dailyBoxOfficeList>
+		<dailyBoxOffice>
+			<rank>1</rank>
+			<movieNm>베테랑</movieNm>
+			<audiCnt>144263</audiCnt>
+		</dailyBoxOffice>
+		<dailyBoxOffice>
+			<rank>2</rank>
+			<movieNm>뷰티 인사이드</movieNm>
+			<audiCnt>59994</audiCnt>
+		</dailyBoxOffice>
+		<dailyBoxOffice>
+			<rank>3</rank>
+			<movieNm>암살</movieNm>
+			<audiCnt>47798</audiCnt>
+		</dailyBoxOffice>
+		<dailyBoxOffice>
+			<rank>4</rank>
+			<movieNm>치외법권</movieNm>
+			<audiCnt>26420</audiCnt>
+		</dailyBoxOffice>
+		<dailyBoxOffice>
+			<rank>5</rank>
+			<movieNm>미쓰 와이프</movieNm>
+			<audiCnt>18834</audiCnt>
+		</dailyBoxOffice>
+		<dailyBoxOffice>
+			<rank>6</rank>
+			<movieNm>아메리칸 울트라</movieNm>
+			<audiCnt>13839</audiCnt>
+		</dailyBoxOffice>
+		<dailyBoxOffice>
+			<rank>7</rank>
+			<movieNm>미션 임파서블: 로그네이션</movieNm>
+			<audiCnt>10337</audiCnt>
+		</dailyBoxOffice>
+		<dailyBoxOffice>
+			<rank>8</rank>
+			<movieNm>미라클 벨리에</movieNm>
+			<audiCnt>7203</audiCnt>
+		</dailyBoxOffice>
+		<dailyBoxOffice>
+			<rank>9</rank>
+			<movieNm>미니언즈</movieNm>
+			<audiCnt>2756</audiCnt>
+		</dailyBoxOffice>
+		<dailyBoxOffice>
+			<rank>10</rank>
+			<movieNm>판타스틱 4</movieNm>
+			<audiCnt>2500</audiCnt>
+		</dailyBoxOffice>
+	</dailyBoxOfficeList>
+</boxOfficeResult>
